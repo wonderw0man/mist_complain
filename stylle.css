@@ -35,7 +35,7 @@
 
 .btn-complain{
 
-    margin-left: 70%;
+    margin-left: 80%;
     margin-bottom: 5%;
     background: #1A171D;
     font-weight: 800;
@@ -56,14 +56,14 @@
 @media screen and (max-width: 637px) {
 .btn-complain{
 margin-bottom: 0px;
-margin-left: 60%;
+margin-left: 40%;
 }
 
 }
 @media screen and (max-width: 500px) {
     .btn-complain{
     margin-bottom: 0px;
-    margin-left: 50%;
+    margin-left: 30%;
     }
     
     }
