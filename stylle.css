@@ -10,7 +10,6 @@
     left: 25.85%;
     right: 12.94%;
     top: 5.31%;
-    bottom: 38.07%;
     height: auto;
     background: #3C3644;
     color: #fff;
@@ -35,7 +34,7 @@
 }
 
 .btn-complain{
-    margin-top: 26%;
+    margin-bottom: 5%;
     margin-left: 67.5%;
     background: #1A171D;
     font-weight: 800;
