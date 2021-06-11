@@ -5,11 +5,8 @@
 }
 
 .complain-card{
-    
-    position:absolute;
-    left: 25.85%;
-    right: 12.94%;
-    top: 5.31%;
+    margin: auto;
+    margin-top: 5.31%;
     height: auto;
     background: #3C3644;
     color: #fff;
